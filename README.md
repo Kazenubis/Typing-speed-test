@@ -19,8 +19,8 @@ Python 3 · Tkinter · standard library only
 ## Getting Started
 
 ```bash
-git clone https://github.com/Kazenubis/Typing-speed-test-.git
-cd Typing-speed-test-
+git clone https://github.com/Kazenubis/Typing-speed-test.git
+cd Typing-speed-test
 python3 main.py
 ```
 
